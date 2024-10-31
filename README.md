@@ -1,6 +1,6 @@
 # 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝘼𝙣𝙖𝙣𝙙𝙪 👋
 
-[![](https://img.shields.io/badge/-@helloitsmeanandu-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://x.com/hi_itsmeanandu)
+[![](https://img.shields.io/badge/-@hi_itsmeanandu-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://x.com/hi_itsmeanandu)
 [![](https://img.shields.io/badge/-@DiligentAnandu-%23181717?style=flat-square&logo=github)](https://github.com/DiligentAnandu)
 [![](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/helloitsmeanandu)
 
