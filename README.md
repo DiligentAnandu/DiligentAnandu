@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/-@DiligentAnandu-%23181717?style=flat-square&logo=github)](https://github.com/DiligentAnandu)
 [![](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/helloitsmeanandu)
 
-𝑰 ❤️ 𝑪𝒐𝒅𝒊𝒏𝒈 𝒂𝒏𝒅 𝑺𝒕𝒓𝒖𝒄𝒕𝒖𝒓𝒂𝒍 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈!
+
 
 :computer: 𝑨 𝒅𝒆𝒗𝒐𝒕𝒆𝒅 𝒔𝒕𝒖𝒅𝒆𝒏𝒕 𝒐𝒇 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 & 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈.
 
